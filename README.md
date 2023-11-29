@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently a second year Biostatistics PhD student at the Johns Hopkins Bloomberg School of Public Health. 
-🗺️ I'm interested in developing statistical method for the analysis of spatial transcriptomics data.
+🌱 I’m currently a second year Biostatistics PhD student at the Johns Hopkins Bloomberg School of Public Health.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindyfang70)](https://github.com/anuraghazra/github-readme-stats)
+🗺️ I'm interested in developing statistical method for the analysis of spatial transcriptomics data.
