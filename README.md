@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently a third year Biostatistics PhD candidate at the Johns Hopkins Bloomberg School of Public Health.
+🌱 I’m currently a fourth year Biostatistics PhD candidate at the Johns Hopkins Bloomberg School of Public Health.
 
-🗺️ I'm interested in developing statistical method for the analysis of spatial transcriptomics data.
+🗺️ I'm interested in developing statistical methods for the analysis of spatial transcriptomics data.
